@@ -1,6 +1,6 @@
 {
   "name": "@joehua/zod",
-  "version": "1.11.10",
+  "version": "1.11.11",
   "description": "TypeScript-first schema declaration and validation library with static type inference",
   "main": "./lib/cjs/src/index.js",
   "module": "./lib/esm/src/index.js",
