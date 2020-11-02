@@ -7,10 +7,10 @@
       "esnext",
       "dom"
     ],
-    "target": "es5",
-    "module": "commonjs",
+    "target": "ESNext",
+    "module": "ESNext",
     "declaration": true,
-    "outDir": "./lib",
+    "outDir": "./lib/esm",
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "esModuleInterop": true,
@@ -29,6 +29,7 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node"
   },
   "include": [
     "src",
